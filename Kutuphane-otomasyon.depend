@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715694262 source:c:\users\ali19\desktop\kutuphane-otomasyon\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
